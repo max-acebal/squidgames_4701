@@ -1,0 +1,3 @@
+Max Acebal - developed minimax algorithm for moving, developed heuristic
+Henri Vrod - developed minimax algorithm for throwing 
+Kyle Christopher - developed heuristic, tested algorithm

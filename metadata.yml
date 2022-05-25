@@ -1,0 +1,14 @@
+---
+:id: 104742227
+:submitters:
+- :name: Henri Vrod
+  :email: hcv2106@columbia.edu
+- :name: Maximilian Acebal
+  :email: mra2180@columbia.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-13 01:42:54.088545000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-12-12 17:42:54.088545000 Z
+:status: processed
+:score: 92.0
